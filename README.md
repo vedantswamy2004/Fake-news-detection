@@ -1,0 +1,1 @@
+This project involves a decision tree classifier which can predict if the news article is fake or not. I have implemented a decision tree from scratch in which I had to implement the entropy function.
